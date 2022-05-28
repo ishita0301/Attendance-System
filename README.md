@@ -5,7 +5,7 @@ This project involves building an attendance system which utilizes facial recogn
 
 **Features:**
 
-  	**HOME PAGE**     
+  	 HOME PAGE    
 	1) Student management system (save Student info/Add Photo Sample, Update, Delete, Reset) 
 	2) Train photo samples 
 	3) Take attendance with Face Recognition 
