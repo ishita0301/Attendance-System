@@ -4,8 +4,7 @@ Facial detection based attendance system to ease the task of teachers &amp; elim
 This project involves building an attendance system which utilizes facial recognition to mark the presence.
 
 **Features:**
-
-  **HOME PAGE**     
+**HOME PAGE**     
 	1) Student management system (save Student info/Add Photo Sample, Update, Delete, Reset) 
 	2) Train photo samples 
 	3) Take attendance with Face Recognition 
