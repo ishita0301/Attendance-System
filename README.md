@@ -12,4 +12,4 @@ This project involves building an attendance system which utilizes facial recogn
 	4) Attendance Report(Excel file/csv file) 
 	5) Query page
 	6) Feedback page
-  7) Exit
+  	7) Exit
