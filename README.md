@@ -21,3 +21,7 @@ A facial recognition software captures and compares patterns on a person’s fac
 	1) Face Detection: An essential step is locating human faces in real-time
 	2) Transform Data: Once captured, the analogue facial information is transformed into a set of data or vectors based on a person’s facial features
 	3) Face Match: The system matches the data above with the one in the database for verification
+	
+**Algorithms Used:**
+	Haarcascade Opencv (Object/Face Detection)
+	LBPH Opencv (Face Recognition)
