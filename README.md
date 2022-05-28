@@ -23,5 +23,6 @@ A facial recognition software captures and compares patterns on a person’s fac
 	3) Face Match: The system matches the data above with the one in the database for verification
 	
 **Algorithms Used:**
-	Haarcascade Opencv (Object/Face Detection)
-	LBPH Opencv (Face Recognition)
+
+	1) Haarcascade Opencv (Object/Face Detection)
+	2) LBPH Opencv (Face Recognition)
