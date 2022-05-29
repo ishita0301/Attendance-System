@@ -37,7 +37,7 @@ A facial recognition software captures and compares patterns on a person’s fac
 	Username-root
 	Password-ishita@0301
 
-	To access the database:
+	To access the database(face_recognition):
 
 	first create database name face_recognition
 	restore face_recognition.sql file using Command:
