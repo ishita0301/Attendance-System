@@ -26,3 +26,5 @@ A facial recognition software captures and compares patterns on a person’s fac
 
 	1) Haarcascade Opencv (Object/Face Detection)
 	2) LBPH Opencv (Face Recognition)
+	
+| ![main](https://user-images.githubusercontent.com/106318752/170842510-a544a72e-847a-46be-9f3c-959229747587.jpg)| ![student](https://user-images.githubusercontent.com/106318752/170842519-6fed76ee-932d-4723-939f-35cfb46a123b.jpeg)
