@@ -127,9 +127,9 @@ class Emotion:
         camera = cv2.VideoCapture(0, cv2.CAP_DSHOW)
         return_value, image = camera.read()
         if return_value:
-            cv2.imwrite(r'C:\Users\ISHITA\OneDrive\Desktop\Face Recognition\opencv.jpg', image)
+            cv2.imwrite(r'opencv.jpg', image)
             del(camera)
-            img1=cv2.imread(r'C:\Users\ISHITA\OneDrive\Desktop\Face Recognition\opencv.jpg')
+            img1=cv2.imread(r'opencv.jpg')
 
             try:
                 result=DeepFace.analyze(img1,actions=['emotion'])
