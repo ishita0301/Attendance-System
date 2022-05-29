@@ -28,6 +28,7 @@ A facial recognition software captures and compares patterns on a person’s fac
 	2) LBPH Opencv (Face Recognition)
 	
 **Database**
+
 	Username-root
 	Password-ishita@0301
 
