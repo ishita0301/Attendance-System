@@ -34,4 +34,6 @@ A facial recognition software captures and compares patterns on a person’s fac
 | Train Data | Face Recognition |
 | ![face recognition](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/face%20recognition.png)| ![attendance](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/attendance.png)
 | Face Identification | Attendance Record |
+| ![query](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/query.png)| ![feedback](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/feedback.png)
+| Queries | Feedback |
 
