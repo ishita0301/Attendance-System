@@ -53,4 +53,6 @@ A facial recognition software captures and compares patterns on a person’s fac
 | Face Identification | Attendance Record |
 | ![query](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/query.png)| ![feedback](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/feedback.png)
 | Queries | Feedback Record |
+| ![emotion detection](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/emotion%20detection.JPG)| ![graph](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/graph.png)
+| Emotion Detection | Feedback Graph |
 
