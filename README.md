@@ -5,6 +5,13 @@ This project involves building an attendance system which utilizes facial recogn
 
 **Software used:-** Visual Studio Code(VS CODE)
 
+**TECHNOLOGY USED:**
+
+	1)tkinter for whole GUI
+	2)OpenCV for taking images and face recognition (cv2.face.LBPHFaceRecognizer_create())
+	3)deepface library for emotion detection
+	4)MySQL for database
+
 **Features:**
 
   	 HOME PAGE    
