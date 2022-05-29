@@ -1,4 +1,4 @@
-## FACE RECOGNITION ATTENDANCE SYSTEM
+## FACE RECOGNITION BASED ATTENDANCE SYSTEM
 
 Facial detection based attendance system to ease the task of teachers &amp; eliminate the problem of proxies.
 This project involves building an attendance system which utilizes facial recognition to mark the presence.
