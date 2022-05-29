@@ -27,6 +27,22 @@ A facial recognition software captures and compares patterns on a person’s fac
 	1) Haarcascade Opencv (Object/Face Detection)
 	2) LBPH Opencv (Face Recognition)
 	
+**Database**
+	Username-root
+	Password-ishita@0301
+
+	To access the database:
+
+	first create database name face_recognition
+	restore face_recognition.sql file using Command:
+
+	mysql -u root -p face_recognition<C:\face_recognition.sql
+
+	in the path directory: C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+	(Run this command on command prompt as admin)
+	(Make sure you have downloaded MySQL in your computer)
+
 | ![main](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/main.png)| ![student details](https://github.com/ishita0301/Attendance-System-/blob/main/Front%20end/student%20details.png)
 |-|-|
 | Home Page | Student Details |
