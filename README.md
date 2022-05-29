@@ -3,6 +3,8 @@
 Facial detection based attendance system to ease the task of teachers &amp; eliminate the problem of proxies.
 This project involves building an attendance system which utilizes facial recognition to mark the presence.
 
+**Software used:-** Visual Studio Code(VS CODE)
+
 **Features:**
 
   	 HOME PAGE    
