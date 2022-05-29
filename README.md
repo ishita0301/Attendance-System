@@ -29,6 +29,11 @@ A facial recognition software captures and compares patterns on a person’s fac
 	
 **Database**
 
+	Tables:
+	1) student
+	2) query
+	3) emotion
+	
 	Username-root
 	Password-ishita@0301
 
